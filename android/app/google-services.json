@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202712372140",
+    "project_id": "email-authentication-1a7e3",
+    "storage_bucket": "email-authentication-1a7e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202712372140:android:d9b6d05a9bea3865b46009",
+        "android_client_info": {
+          "package_name": "com.fussiontech.firebase_email_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202712372140-17ci1elqq64h7oqcqapjcqc25ii4g05j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_q22dRvLIZHeQZQc1_gA4Jag5Oo8FZG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202712372140-17ci1elqq64h7oqcqapjcqc25ii4g05j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
